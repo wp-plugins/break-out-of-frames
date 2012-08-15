@@ -8,11 +8,13 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Avoid your blog being framed by some other web site.
+This Framebreaker will Avoid your blog being framed by some other web site and good for wallpaper blog to increase traffic.
 
 == Description ==
 
-by installing this plugin you can Avoid your blog being framed by some other web site.
+By installing this plugin you can Avoid your blog being framed by some other web site. if you have image or wallpaper blog this plugin will increase your traffic because it will breaking out of Google Image Search preview.
+
+plugin by <a href="http://www.cekpr.com">ewwink</a>
 
 == Installation ==
 
@@ -22,12 +24,16 @@ by installing this plugin you can Avoid your blog being framed by some other web
 
 == Frequently Asked Questions ==
 
-= can this plugin work without javascript =
+= Can this plugin work without javascript =
 
-no, it require javascript to run
+No, it require javascript to run
+
+= How it can increase traffic of my wallpaper blog =
+
+it will break google image search preview and the visitor will directly view the image from you blog page.
 
 == Screenshots ==
-no available
+not available
 
 == Changelog ==
 

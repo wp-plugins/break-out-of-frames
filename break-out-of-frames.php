@@ -2,7 +2,7 @@
 /*
 Plugin Name: Break Out Of Frames
 Plugin URI: http://www.prpagerank.com/
-Description: Avoid your blog being framed by some other web site.
+Description: This Framebreaker will Avoid your blog being framed by some other web site and good for wallpaper blog to increase traffic.
 Version: 0.1
 Author: ewwink
 Author URI: http://www.prpagerank.com/
