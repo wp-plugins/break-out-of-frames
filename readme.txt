@@ -14,7 +14,7 @@ This Framebreaker will Avoid your blog being framed by some other web site and g
 
 By installing this plugin you can Avoid your blog being framed by some other web site. if you have image or wallpaper blog this plugin will increase your traffic because it will breaking out of Google Image Search preview.
 
-plugin by <a href="http://www.cekpr.com">ewwink</a>
+plugin by <a href="http://www.cekpr.com">Check Page Rank</a>
 
 == Installation ==
 
