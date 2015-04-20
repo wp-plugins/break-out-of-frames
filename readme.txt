@@ -3,7 +3,7 @@ Contributors: ewwink
 Donate link: http://www.prpagerank.com/
 Tags: frame, iframe, disable iframe, no frames, framebreaker, javascript, google image
 Requires at least: 2.0.2
-Tested up to: 3.4
+Tested up to: 4.2
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
